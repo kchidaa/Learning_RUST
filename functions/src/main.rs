@@ -9,12 +9,12 @@ You can add functions before or after the MAIN function and it doesn't matter.
 
 // this is a single line comment
 // this is another single line comment
-// you can add comments in a line after statement or expressions like in line 42
+// you can add comments in a line after statement or expressions like in line 40
 
 // expression do not end with ; 
 // Only statements end with ;
 // expression returns some values while statements do not
-// line 32 is an statement, while line 42 is an expression
+// line 32 is an statement, while line 40 is an expression
 
 
 fn main() {
